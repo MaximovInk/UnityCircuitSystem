@@ -1,4 +1,4 @@
-** Include logical elements:**
+**Include logical elements:**
 
 - Bit input field
 - Button
